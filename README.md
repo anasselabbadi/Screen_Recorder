@@ -29,8 +29,9 @@ To use this application, you need to have the required libraries (tkinter, OpenC
 6.Run the code by executing the following command in the terminal or command prompt:
 
 Copy code
-'python'
+```python
 python screen_recorder.py
+
 This will start the screen recording application.
 
 7.Once the application window appears, you can click the "Start Recording" button to begin recording your screen. The "Stop Recording" button can be clicked to stop the recording. The "Dark Mode" button toggles the appearance of the GUI between light and dark themes.
