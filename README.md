@@ -14,28 +14,28 @@ The application also handles the closing of the tkinter window by implementing t
 
 To use this application, you need to have the required libraries (tkinter, OpenCV, pyautogui, numpy, and Pillow) installed in your Python environment. Running the code will launch the screen recording application, allowing you to start and stop recording your screen and preview the capture in real time.
 ******************************************************************************************************************************************
-#To use and run the screen recording application code, follow these steps:
+# To use and run the screen recording application code, follow these steps:
 
-Install the necessary libraries: Make sure you have tkinter, OpenCV, pyautogui, numpy, and Pillow installed in your Python environment.
+1.Install the necessary libraries: Make sure you have tkinter, OpenCV, pyautogui, numpy, and Pillow installed in your Python environment.
 
-Copy the provided code into a Python file (e.g., screen_recorder.py) using a text editor or an integrated development environment (IDE).
+2.Copy the provided code into a Python file (e.g., screen_recorder.py) using a text editor or an integrated development environment (IDE).
 
-Save the Python file.
+3.Save the Python file.
 
-Open a terminal or command prompt.
+4.Open a terminal or command prompt.
 
-Navigate to the directory where the screen_recorder.py file is located using the cd command.
+5.Navigate to the directory where the screen_recorder.py file is located using the cd command.
 
-Run the code by executing the following command in the terminal or command prompt:
+6.Run the code by executing the following command in the terminal or command prompt:
 
 Copy code
-python screen_recorder.py
-This will start the screen recording application.
+'python screen_recorder.py
+This will start the screen recording application.'
 
-Once the application window appears, you can click the "Start Recording" button to begin recording your screen. The "Stop Recording" button can be clicked to stop the recording. The "Dark Mode" button toggles the appearance of the GUI between light and dark themes.
+7.Once the application window appears, you can click the "Start Recording" button to begin recording your screen. The "Stop Recording" button can be clicked to stop the recording. The "Dark Mode" button toggles the appearance of the GUI between light and dark themes.
 
-The recorded screen will be saved as an MP4 file. When you click the "Start Recording" button, you will be prompted to choose the location and name of the output file.
+8.The recorded screen will be saved as an MP4 file. When you click the "Start Recording" button, you will be prompted to choose the location and name of the output file.
 
-Note: Make sure you have the necessary permissions to access the screen and write files to the chosen location.
+9.Note: Make sure you have the necessary permissions to access the screen and write files to the chosen location.
 
-You can customize and modify the code as per your requirements.
+-You can customize and modify the code as per your requirements.
