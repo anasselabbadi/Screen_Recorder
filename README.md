@@ -31,6 +31,7 @@ To use this application, you need to have the required libraries (tkinter, OpenC
 Copy code
 ```python
 python screen_recorder.py
+```
 
 This will start the screen recording application.
 
