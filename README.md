@@ -14,7 +14,7 @@ The application also handles the closing of the tkinter window by implementing t
 
 To use this application, you need to have the required libraries (tkinter, OpenCV, pyautogui, numpy, and Pillow) installed in your Python environment. Running the code will launch the screen recording application, allowing you to start and stop recording your screen and preview the capture in real time.
 ******************************************************************************************************************************************
-To use and run the screen recording application code, follow these steps:
+/To use and run the screen recording application code, follow these steps:
 
 Install the necessary libraries: Make sure you have tkinter, OpenCV, pyautogui, numpy, and Pillow installed in your Python environment.
 
